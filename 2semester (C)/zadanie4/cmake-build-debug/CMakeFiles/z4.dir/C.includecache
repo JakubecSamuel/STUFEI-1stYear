@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/data.h
+
+../include/rng.h
+
+D:/Skola/vysoka skola/1.rocnik/Programovanie/2semester C/zadanie4/src/data.c
+data.h
+D:/Skola/vysoka skola/1.rocnik/Programovanie/2semester C/zadanie4/src/data.h
+
+D:/Skola/vysoka skola/1.rocnik/Programovanie/2semester C/zadanie4/src/rng.c
+rng.h
+D:/Skola/vysoka skola/1.rocnik/Programovanie/2semester C/zadanie4/src/rng.h
+
+D:/Skola/vysoka skola/1.rocnik/Programovanie/2semester C/zadanie4/src/z4.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+data.h
+D:/Skola/vysoka skola/1.rocnik/Programovanie/2semester C/zadanie4/src/data.h
+rng.h
+D:/Skola/vysoka skola/1.rocnik/Programovanie/2semester C/zadanie4/src/rng.h
+string.h
+-
+
