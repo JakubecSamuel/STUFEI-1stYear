@@ -1,0 +1,3 @@
+D:/Skola/vysoka skola/1.rocnik/Programovanie/2semester C/zadanie0/cmake-build-debug/CMakeFiles/zadanie0.dir
+D:/Skola/vysoka skola/1.rocnik/Programovanie/2semester C/zadanie0/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Skola/vysoka skola/1.rocnik/Programovanie/2semester C/zadanie0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
